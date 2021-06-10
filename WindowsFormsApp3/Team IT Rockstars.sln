@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baaggage Sim", "WindowsFormsApp3\Baaggage Sim.csproj", "{0797C9D9-CE93-495C-93D9-8104631CFCE1}"
+EndProject
+<<<<<<< HEAD
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "TestDijkstra\UnitTest.csproj", "{1D1DC0F3-3581-4C28-A657-CF7C0EBC6D6C}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newDijkstraUnitTest", "newDijkstraUnitTest\newDijkstraUnitTest.csproj", "{359CDD39-131B-4C09-978C-933C82246B43}"
+>>>>>>> Ralia
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0797C9D9-CE93-495C-93D9-8104631CFCE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0797C9D9-CE93-495C-93D9-8104631CFCE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0797C9D9-CE93-495C-93D9-8104631CFCE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0797C9D9-CE93-495C-93D9-8104631CFCE1}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+		{1D1DC0F3-3581-4C28-A657-CF7C0EBC6D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1DC0F3-3581-4C28-A657-CF7C0EBC6D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1DC0F3-3581-4C28-A657-CF7C0EBC6D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1DC0F3-3581-4C28-A657-CF7C0EBC6D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{359CDD39-131B-4C09-978C-933C82246B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359CDD39-131B-4C09-978C-933C82246B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359CDD39-131B-4C09-978C-933C82246B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359CDD39-131B-4C09-978C-933C82246B43}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> Ralia
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACB79B62-A931-45F6-BA68-80EF7D36905C}
+	EndGlobalSection
+EndGlobal
